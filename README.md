@@ -3,7 +3,7 @@
 
 Course Repository SI7003 Natural Language Processing at Universidad EAFIT
 
-| **INSTRUCTORS** | Edwin Montoya Múnera (emontoya@eafit.edu.co) & Juan David Martínez Vargas (jdmartinev@eafit.edu.co)   |
+| **INSTRUCTORS** | Edwin Montoya Múnera (emontoya@eafit.edu.co) - Juan David Martínez Vargas (jdmartinev@eafit.edu.co) |
 | -------------- | -------------------------------- |
 | **LECTURES**   | Tuesday 18:00-21:00 XX-XXX |
 | **DATES**      | Jan 28th - Mar 18th |
