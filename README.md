@@ -36,6 +36,6 @@ Course Repository SI7003 Natural Language Processing at Universidad EAFIT
  
 ## Lectures
   
-- [Lecture01 - Introduction to AI](/Lecture01/)
+- [Lecture01 - Introduction to NLP](/Lecture01/)
 
 
