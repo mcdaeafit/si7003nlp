@@ -11,6 +11,15 @@ Course Repository SI7003 Natural Language Processing at Universidad EAFIT
 
 ## Schedule of the course
 
+### w1. Intro NLP y Classic Models (Edwin)
+### w2. Topic models, Language Model (n-gram), classification (Edwin)
+### w3. Language Model & Word/Doc embeddings (Juan David)
+### w4. Neural Networks & Transformers 1(Juan David)
+### w5. Transfer learning, pre-test models (Juan David)
+### w6. Supervised fine-tunning & RLHF(Juan David)
+### w7. RAG (Edwin)
+### w8. Agents & Apps (Edwin)
+
 ## Roadmap of the course
 
 ## We will learn in this course:
@@ -18,15 +27,12 @@ Course Repository SI7003 Natural Language Processing at Universidad EAFIT
 ## Evaluation
 | **Event** | Topic  |
 | -------------- | -------------------------------- |
-| **Quiz 1 ( %)** | XXX |
-| **Quiz 2 ( %)** | XXX |
-| **Quiz 3 ( %)** | XXX |
-| **Quiz 4 ( %)** | XXX |
-| **Assignment 1 ( %)** | XXX |
-| **Assignment 2 ( %)** | XXX |
-| **Assignment 3 ( %)** | XXX |
-| **Assignment 4 ( %)** | XXX |
-| **Final project ( )** | XXX |
+| **Homework 1 ( 15%)** | XXX |
+| **Homework 2 ( 15%)** | XXX |
+| **Homework 3 ( 15%)** | XXX |
+| **Homework 4 ( 15%)** | XXX |
+| **exam ( 10%)** | XXX |
+| **Final project ( 30%)** | XXX |
 
 # Resources:
 * Computational resources: I strongly recommend creating (free) accounts on the following platforms:
